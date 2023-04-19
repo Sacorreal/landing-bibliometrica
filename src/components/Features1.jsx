@@ -22,28 +22,26 @@ export const Features1 = () => {
           <div className="w-full lg:w-1/2 mb-12 lg:mb-0">
             <div className="mx-auto lg:mx-auto w-11/12 sm:w-4/5 md:w-3/4 lg:w-unset">
               <span className="custom-block-subtitle">
-                Dolor sit amet consectutar
+              Mide el uso de los servicios de tu biblioteca
               </span>
               <h2 className="mt-6 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-                Unlike any tool you used before
+                Crea servicios personalizados
               </h2>
               <p className="mb-10 text-customGrayText leading-loose">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque efficitur nisl sodales egestas lobortis. Lorem
-                ipsum dolor sit amet, consectetur adipiscing elit.
+                Las bibliotecas son fundamentales para apoyar los procesos de aprendizaje e investigación de tu institución
               </p>
               <ul className="mb-6 text-white">
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Vestibulum viverra</span>
+                  <span>Ofrece contenido personalizado para cada grupo de usuario</span>
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Morbi mollis metus pretium</span>
+                  <span>Cada usuario tiene acceso a su biblioteca personalizada</span>
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Etiam lectus nunc, commodo</span>
+                  <span>Fideliza a tus usuarios y genera experiencias únicas</span>
                 </li>
               </ul>
             </div>
